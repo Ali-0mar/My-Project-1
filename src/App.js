@@ -28,7 +28,7 @@ class App extends react.Component {
 
         return (
             <div className="App">
-                <h1>Monsters Rolodex</h1>
+                <h1>My Monsters Rolodex</h1>
                 <Searchbox
                     placeholder="Search Monsters"
                     handleChange={this.handleChange}
