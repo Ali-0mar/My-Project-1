@@ -1,6 +1,5 @@
 import "./App.css";
 import { CardList } from "./compononets/card-list/card.list";
-// import { Searchbox } from "./compononets/SearchField/SearchBox";
 import react from "react";
 import { Searchbox } from "./compononets/SearchField/SearchBox";
 
